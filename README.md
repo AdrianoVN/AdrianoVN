@@ -1,4 +1,8 @@
-### Hi there 👋
+### Olá é sou Adriano Vieira.
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/)
+[![GitHub](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/)
 
 <!--
 **AdrianoVN/AdrianoVN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
