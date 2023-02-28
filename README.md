@@ -1,4 +1,5 @@
-### Olá me chamo Adriano Vieira.
+### Olá, Me chamo Adriano Vieira
+
 [![Adriano Vieira GitHub stats](https://github-readme-stats.vercel.app/api?username=AdrianoVN&show_icons=true&theme=tokyonight)]()
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianoVN&hide_progress=compact)](https://github.com/AdrianoVN/github-readme-stats)
