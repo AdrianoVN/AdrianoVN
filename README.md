@@ -9,8 +9,6 @@
 [![Visual Studio code](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)]()
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](adrianovieno@gmail.com)
 
-[![]()]()
-
 ![Adriano Vieira GitHub stats](https://github-readme-stats.vercel.app/api?username=AdrianoVN&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianoVN&hide_progress=compact)](https://github.com/AdrianoVN/github-readme-stats)
