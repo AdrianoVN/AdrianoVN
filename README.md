@@ -5,6 +5,9 @@
 [![GitHub](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/)
 
 ![Adriano Vieira GitHub stats](https://github-readme-stats.vercel.app/api?username=AdrianoVN&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianoVN&hide_progress=true)](https://github.com/AdrianoVN/github-readme-stats)
+
 <!--
 **AdrianoVN/AdrianoVN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
