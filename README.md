@@ -7,6 +7,9 @@
 [![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)]()
 [![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)]()
 [![Visual Studio code](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)]()
+
+
+
 [![]()]()
 
 ![Adriano Vieira GitHub stats](https://github-readme-stats.vercel.app/api?username=AdrianoVN&show_icons=true&theme=tokyonight)
