@@ -1,4 +1,4 @@
-###  Olás Bem Vindo(a) Eu sou Adriano Vieira ! Estudante de Analise e Desenvolvimento de Sistemas, como foco em  teste e qualidade de software QA.
+###  Olás Bem Vindo(a) Eu sou Adriano Vieira ! Estudante de Anáise e Desenvolvimento de Sistemas, como foco em  teste e qualidade de software QA.
 
 [![Adriano Vieira GitHub stats](https://github-readme-stats.vercel.app/api?username=AdrianoVN&show_icons=true&theme=tokyonight)]()
 
