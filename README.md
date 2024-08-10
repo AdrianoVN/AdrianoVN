@@ -1,4 +1,4 @@
-###  Olá! Eu sou Adriano Vieira, Estudante de Análise e Desenvolvimento de Sistemas, como foco em qualidade de software QA.
+###  Olá! Eu sou Adriano Vieira, Formado em Análise e Desenvolvimento de Sistemas, como foco em qualidade de software QA.
 
 [![Adriano Vieira GitHub stats](https://github-readme-stats.vercel.app/api?username=AdrianoVN&show_icons=true&theme=tokyonight)]()
 
